@@ -1,8 +1,7 @@
 # 💫 About Me:
-I'm currently studying Full-Stack Development at ASU
-Builder, Learner, and developer
-
-###
+I'm currently studying Full-Stack Development at ASU<br>
+Builder, Learner, and developer<br>
+Seattle based
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
@@ -14,20 +13,8 @@ Builder, Learner, and developer
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo"  />
 </div>
 
-###
-
 <div align="center">
   <a href="https://www.linkedin.com/in/alexander-armstrong-9913a5368/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alexfarm08/alexfarm08/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alexfarm08/alexfarm08/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/alexfarm08/alexfarm08/output/pacman-contribution-graph.svg">
-</picture>
-
-###
