@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying Full-Stack Development at ASU<br>
+I'm currently studying Full-Stack Web Development at ASU<br>
 Builder, Learner, and developer<br>
 Seattle based
 
