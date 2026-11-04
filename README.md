@@ -3,11 +3,16 @@
 I am a full-stack developer with 2 years of experience in web development, combining technical expertise with strong communication and collaboration to create thoughtful, effective digital solutions.<br>
 
 Graduated from ASU with a focus in Full-Stack Web Development<br>
+
 Builder, Learner, and developer<br>
-Seattle based
+Located in Seattle, Wa
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="60" alt="react logo"  />
+  <img width="12" />
+  <img src="https://jsdelivr.net" height="60" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
   <img width="12" />
