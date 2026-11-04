@@ -1,4 +1,6 @@
-# 💫 About Me:
+# 💫 Hi there, My name is Alex!
+
+I am a full-stack developer with 2 years of experience in web development, combining technical expertise with strong communication and collaboration to create thoughtful, effective digital solutions.
 I'm currently studying Full-Stack Web Development at ASU<br>
 Builder, Learner, and developer<br>
 Seattle based
