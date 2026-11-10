@@ -1,4 +1,7 @@
-# 💫 Hi there, My name is Alex!
+<img width="584" height="435" alt="Armstrong_Stacked" src="https://github.com/user-attachments/assets/f899d005-b9a1-419b-a11f-4de111611034" />
+
+
+# Hi there, My name is Alex!
 
 I am a full-stack developer with 2 years of experience in web development, combining technical expertise with strong communication and collaboration to create thoughtful, effective digital solutions.<br>
 
