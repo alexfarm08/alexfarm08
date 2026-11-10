@@ -7,6 +7,11 @@ I am a full-stack developer with 2 years of experience in web development, combi
 
 Graduated from ASU with a focus in Full-Stack Web Development<br>
 
+## What I am currently working on!
+- A weather app designed for skiers
+- backend development
+- data science projects in jupyter notebooks
+
 Builder, Learner, and developer<br>
 Located in Seattle, Wa
 
