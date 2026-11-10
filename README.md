@@ -10,11 +10,15 @@ Graduated from ASU with a focus in Full-Stack Web Development<br>
 ## What I am currently working on!
 - A weather app designed for skiers
 - backend development
-- data science projects in jupyter notebooks
+- data science projects in jupyter notebooks<br>
 
+## A little bit about me
 Builder, Learner, and developer<br>
+I have a passion for exploring new tech<br>
 Located in Seattle, Wa
 
+
+## Tech Stack
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo" />
   <img width="12" />
@@ -29,6 +33,8 @@ Located in Seattle, Wa
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
 </div>
 <br>
+
+## Contact Me!
 <div align="center">
   <a href="https://www.linkedin.com/in/alexander-armstrong-9913a5368/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
