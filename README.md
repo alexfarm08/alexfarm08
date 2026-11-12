@@ -46,11 +46,11 @@ Located in Seattle, Wa
 <a href="https://github.com/alexfarm08/memory-card" target="_blank">
   <img width="200" height="200" alt="mem_card" src="https://github.com/user-attachments/assets/b9c22b0d-5d9e-4111-91dd-4ba3dc8cb5fe" />
 </a><br>
-
+<br>
 <a href="https://github.com/alexfarm08/tic-tac-toe" target="_blank">
   <img width="200" height="200" alt="tic_tac_toe" src="https://github.com/user-attachments/assets/941f5351-1985-4d00-9d61-4d573d14be47" />
 </a><br>
-
+<br>
 <a href="https://github.com/alexfarm08/solar-system" target="_blank">
   <img width="200" height="100" alt="space" src="https://github.com/user-attachments/assets/6cc2d0c0-7bd4-452f-b36e-80cad2d98a04" />
 </a>
