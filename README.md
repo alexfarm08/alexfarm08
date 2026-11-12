@@ -1,4 +1,5 @@
-<img width="200" height="100" alt="transparent_logo" src="https://github.com/user-attachments/assets/e99686d4-e42f-4e75-972d-9578a709b164" />
+<img width="1206" height="436" alt="cleaned_logo_banner" src="https://github.com/user-attachments/assets/abe29a22-650f-4a46-b26e-04fd38e521fb" />
+
 
 
 # Hi there, My name is Alex!
