@@ -1,4 +1,5 @@
-<img width="1206" height="436" alt="cleaned_logo_banner" src="https://github.com/user-attachments/assets/abe29a22-650f-4a46-b26e-04fd38e521fb" />
+<img width="1206" height="307" alt="Untitled-2" src="https://github.com/user-attachments/assets/0e64b12b-6f38-43db-b9b5-cc88195d60ab" />
+
 
 
 
