@@ -1,4 +1,4 @@
-<img width="200" height="100" alt="Armstrong_Stacked" src="https://github.com/user-attachments/assets/f899d005-b9a1-419b-a11f-4de111611034" />
+<img width="584" height="436" alt="transparent_logo" src="https://github.com/user-attachments/assets/e99686d4-e42f-4e75-972d-9578a709b164" />
 
 
 # Hi there, My name is Alex!
