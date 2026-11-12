@@ -40,3 +40,17 @@ Located in Seattle, Wa
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
+<br>
+
+## Some of my projects
+<a href="https://github.com/alexfarm08/memory-card" target="_blank">
+  <img width="512" height="512" alt="mem_card" src="https://github.com/user-attachments/assets/b9c22b0d-5d9e-4111-91dd-4ba3dc8cb5fe" />
+</a><br>
+
+<a href="https://github.com/alexfarm08/tic-tac-toe" target="_blank">
+  <img width="512" height="512" alt="tic_tac_toe" src="https://github.com/user-attachments/assets/941f5351-1985-4d00-9d61-4d573d14be47" />
+</a><br>
+
+<a href="https://github.com/alexfarm08/solar-system" target="_blank">
+  <img width="512" height="290" alt="space" src="https://github.com/user-attachments/assets/6cc2d0c0-7bd4-452f-b36e-80cad2d98a04" />
+</a>
