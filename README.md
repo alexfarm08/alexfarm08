@@ -1,4 +1,4 @@
-<img width="584" height="436" alt="transparent_logo" src="https://github.com/user-attachments/assets/e99686d4-e42f-4e75-972d-9578a709b164" />
+<img width="300" height="200" alt="transparent_logo" src="https://github.com/user-attachments/assets/e99686d4-e42f-4e75-972d-9578a709b164" />
 
 
 # Hi there, My name is Alex!
